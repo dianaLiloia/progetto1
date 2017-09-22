@@ -1,5 +1,6 @@
 # Progetto1
-
+[Gantt](I3_GANTT_PROG1.png)
 ## Diari
 - [08.09.2017](I3_DIARIO_PROG1_2017_09_08.docx)
 - [15.09.2017](I3_DIARIO_PROG1_2017_09_15.docx)
+- [22.09.2017](I3_DIARIO_PROG1_2017_09_22.docx)
