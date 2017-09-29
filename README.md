@@ -1,6 +1,7 @@
 # Progetto1
 [Gantt](I3_GANTT_PROG1.png)  
-[Interfaccia Grafica](I3_INTERFACCIA_GRAFICA_PROG1.docx)
+[Interfaccia Grafica](I3_INTERFACCIA_GRAFICA_PROG1.docx)  
+[Requisiti](I3_REQUISITI_COSTI_PROG1.docx)
 ## Diari
 - [01.09.2017](I3_DIARIO_PROG1_2017_09_01.docx)
 - [08.09.2017](I3_DIARIO_PROG1_2017_09_08.docx)
